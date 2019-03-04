@@ -1,4 +1,4 @@
-package com.agutka.agutkapetclinic.model;
+package com.agutka.agutkapetclinic.model.model;
 
 public class Person {
 

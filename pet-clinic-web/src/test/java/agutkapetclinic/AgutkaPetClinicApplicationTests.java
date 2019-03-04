@@ -1,4 +1,4 @@
-package com.agutka.agutkapetclinic;
+package agutkapetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
