@@ -1,4 +1,4 @@
-package com.agutka.agutkapetclinic.model.model;
+package com.agutka.agutkapetclinic.model;
 
 import java.time.LocalDate;
 

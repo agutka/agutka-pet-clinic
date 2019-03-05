@@ -1,4 +1,4 @@
-package com.agutka.agutkapetclinic.model.model;
+package com.agutka.agutkapetclinic.model;
 
 public class PetType {
 
