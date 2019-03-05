@@ -26,9 +26,7 @@
     </properties>
 
     <scm>
-        <connection>scm:git:ssh://git@github.com:agutka/agutka-pet-clinic.git</connection>
         <developerConnection>scm:git:ssh://git@github.com:agutka/agutka-pet-clinic.git</developerConnection>
-        <url>https://github.com/agutka/agutka-pet-clinic.git</url>
     </scm>
 
     <build>
