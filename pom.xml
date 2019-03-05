@@ -16,7 +16,7 @@
 
     <groupId>com.agutka</groupId>
     <artifactId>agutka-pet-clinic</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>agutka-pet-clinic</name>
     <description>Agutka Pet Clinic Project</description>
 
@@ -43,7 +43,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/agutka/agutka-pet-clinic.git</developerConnection>
-      <tag>agutka-pet-clinic-0.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
